@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CodeAvenge",
+    "description": "",
+    "home_page_url": "https://codeavenge.com",
+    "feed_url": "https://codeavenge.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Anindra"
+    },
+    "items": [
+    ]
+}
