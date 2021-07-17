@@ -3,7 +3,7 @@
     <title>CodeAvenge</title>
     <link href="https://codeavenge.com/feed.xml" rel="self" />
     <link href="https://codeavenge.com" />
-    <updated>2021-07-17T06:35:55+05:30</updated>
+    <updated>2021-07-17T10:00:14+05:30</updated>
     <author>
         <name>Anindra</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Liux"/>
             <category term="IDE"/>
 
-        <updated>2021-07-17T06:35:55+05:30</updated>
+        <updated>2021-07-17T10:00:14+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://codeavenge.com/media/posts/3/Screenshot-from-2021-07-17-06-19-53.png" alt="pycharm-download" />
@@ -40,7 +40,7 @@ There are many different ways to download pycharm for Linux, Here I will show so
 $ sudo snap install pycharm-professional --classic #for professional edition</code></pre><p>To install snap in Linux Mint need to remove nosnap.pref to do it run the following command</p>
 <pre><code>$ sudo rm /etc/apt/preferences.d/nosnap.pref
 $ sudo apt update</code></pre><p><strong>2.Install from official website</strong></p>
-<p>This is recommended way to install pycharm, Intellij, Androistudio, and other JetBrains IDE. To install need to download the tar file from JetBrains <em><a href="https://www.jetbrains.com/pycharm/download/#section=linux">https://www.jetbrains.com/pycharm/download/#section=linux</a></em>
+<p>This is recommended way to install pycharm, Intellij, Androistudio, and other JetBrains IDE. To install need to download the tar file from JetBrains <a href="https://www.jetbrains.com/pycharm/download/">https://www.jetbrains.com/pycharm/download/</a>
 next, run this commands</p>
 <pre><code>$ cd Downloads #Change directory to download
 $ ls
