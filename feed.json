@@ -9,5 +9,24 @@
         "name": "Anindra"
     },
     "items": [
+        {
+            "id": "https://codeavenge.com/install-pycharm-in-linux-2.html",
+            "url": "https://codeavenge.com/install-pycharm-in-linux-2.html",
+            "title": "Install Pycharm in Linux",
+            "summary": "Pycharm is one of the most popular and beat IDE for python development. It is available in two different versions one is Professional and another is Community. Community version is totally free to use.There are many different ways to download pycharm for Linux, Here I&hellip;",
+            "content_html": "<p>Pycharm is one of the most popular and beat IDE for python development. It is available in two different versions one is Professional and another is Community. Community version is totally free to use.\nThere are many different ways to download pycharm for Linux, Here I will show some methods how to install pycharm.</p>\n<p><strong>1.Install via snap</strong></p>\n<p>This is the easiest way to install Pycharm in Linux, But snap is not available in all Linux distro. So before install pycharm, you need Snap. In Ubuntu, Manjaro, Lubuntu snap pre-installed. To install snap open terminal and type bellow commands</p>\n<pre><code>$ sudo apt install snapd</code></pre><p>Not install Pycharm via snap </p>\n<pre><code>$ sudo snap install pycharm-community --classic #for community edition\n$ sudo snap install pycharm-professional --classic #for professional edition</code></pre><p>To install snap in Linux Mint need to remove nosnap.pref to do it run the following command</p>\n<pre><code>$ sudo rm /etc/apt/preferences.d/nosnap.pref\n$ sudo apt update</code></pre><p><strong>2.Install from official website</strong></p>\n<p>This is recommended way to install pycharm, Intellij, Androistudio, and other JetBrains IDE. To install need to download the tar file from JetBrains <em><a href=\"https://www.jetbrains.com/pycharm/download/#section=linux\">https://www.jetbrains.com/pycharm/download/#section=linux</a></em>\nnext, run this commands</p>\n<pre><code>$ cd Downloads #Change directory to download\n$ ls\n# copy downloaded tar filename\n$ tar -xfz pycharm-professional-2021.1.1.tar.gz\n$ cd pycharm-professional-2021.1.1\n$ cd bin\n$ chmod u-x pycharm.sh #allow executing permission\n$ sudo ./pycharm.sh #execute this</code></pre><p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://cdn.hashnode.com/res/hashnode/image/upload/v1622282438480/BDqcCGpvP.png\" data-is-external-image=\"true\"  alt=\"Screenshot from 2021-05-29 15-30-17.png\" /></figure></p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://cdn.hashnode.com/res/hashnode/image/upload/v1622282651857/88w3RZ-c9.png\" data-is-external-image=\"true\"  alt=\"Screenshot from 2021-05-29 15-31-03.png\" /></figure>\nNow agree with JetBrains’ terms and conditions. After this, it will show Pycharm welcome page. Click on the setting and select “Create Desktop Entry” this will create a desktop shortcut.</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://cdn.hashnode.com/res/hashnode/image/upload/v1622282672357/YfkfIw3iG.png\" data-is-external-image=\"true\"  alt=\"Screenshot from 2021-05-29 15-32-48.png\" /></figure></p>\n<p>![Screenshot from 2021-05-29 15-33-10.png](<a href=\"https://cdn.hash\">https://cdn.hash</a>    node.com/res/hashnode/image/upload/v1622282676510/uSmjIXWNw.png)</p>\n<p><strong>3.Install Via JetBrains Toolbox App</strong>\nIf you want to download not only Pycharm also other JetBrains apps like Android Studio, IntelliJ, etc this will help to download all of them. To download Toolbox go to Jetbrains product page <em><a href=\"https://www.jetbrains.com/products/\">https://www.jetbrains.com/products/</a></em> download from there or click here to download <em><a href=\"https://www.jetbrains.com/toolbox-app/download/download-thanks.html\">https://www.jetbrains.com/toolbox-app/download/download-thanks.html</a></em></p>\n<pre><code>$ cd Downloads\n$ tar -xfz jetbrains-toolbox-1.20.8352.tar.gz\n$ cd jetbrains-toolbox-1.20.8352\n$ ./jetbrains-toolbox</code></pre><p>After this Toolbox will open. From there select pycharm and download after some time it will download and install automatically. This toolbox can update all apps automatically.\nIf anything wrong here please let me know..</p>\n",
+            "image": "https://codeavenge.com/media/posts/3/Screenshot-from-2021-07-17-06-19-53.png",
+            "author": {
+                "name": "Anindra"
+            },
+            "tags": [
+                   "pycharm",
+                   "Python",
+                   "Liux",
+                   "IDE"
+            ],
+            "date_published": "2021-07-17T06:15:02+05:30",
+            "date_modified": "2021-07-17T06:21:13+05:30"
+        }
     ]
 }
