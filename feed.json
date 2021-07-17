@@ -5,6 +5,7 @@
     "home_page_url": "https://codeavenge.com",
     "feed_url": "https://codeavenge.com/feed.json",
     "user_comment": "",
+    "icon": "https://codeavenge.com/media/website/logo.png",
     "author": {
         "name": "Anindra"
     },
