@@ -3,7 +3,7 @@
     <title>CodeAvenge</title>
     <link href="https://codeavenge.com/feed.xml" rel="self" />
     <link href="https://codeavenge.com" />
-    <updated>2021-07-17T06:21:13+05:30</updated>
+    <updated>2021-07-17T06:35:55+05:30</updated>
     <author>
         <name>Anindra</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Liux"/>
             <category term="IDE"/>
 
-        <updated>2021-07-17T06:21:13+05:30</updated>
+        <updated>2021-07-17T06:35:55+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://codeavenge.com/media/posts/3/Screenshot-from-2021-07-17-06-19-53.png" alt="pycharm-download" />
@@ -49,11 +49,11 @@ $ tar -xfz pycharm-professional-2021.1.1.tar.gz
 $ cd pycharm-professional-2021.1.1
 $ cd bin
 $ chmod u-x pycharm.sh #allow executing permission
-$ sudo ./pycharm.sh #execute this</code></pre><p><figure class="post__image"><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622282438480/BDqcCGpvP.png" data-is-external-image="true"  alt="Screenshot from 2021-05-29 15-30-17.png" /></figure></p>
-<p><figure class="post__image"><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622282651857/88w3RZ-c9.png" data-is-external-image="true"  alt="Screenshot from 2021-05-29 15-31-03.png" /></figure>
+$ sudo ./pycharm.sh #execute this</code></pre><p><figure class="post__image"><img loading="lazy" src="https://codeavenge.com/media/posts/3/1-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://codeavenge.com/media/posts/3/responsive/1-2-xs.png 300w ,https://codeavenge.com/media/posts/3/responsive/1-2-sm.png 480w ,https://codeavenge.com/media/posts/3/responsive/1-2-md.png 768w ,https://codeavenge.com/media/posts/3/responsive/1-2-lg.png 1024w ,https://codeavenge.com/media/posts/3/responsive/1-2-xl.png 1360w ,https://codeavenge.com/media/posts/3/responsive/1-2-2xl.png 1600w"  alt="download-pycharm-1" width="1920" height="1080" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://codeavenge.com/media/posts/3/2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://codeavenge.com/media/posts/3/responsive/2-xs.png 300w ,https://codeavenge.com/media/posts/3/responsive/2-sm.png 480w ,https://codeavenge.com/media/posts/3/responsive/2-md.png 768w ,https://codeavenge.com/media/posts/3/responsive/2-lg.png 1024w ,https://codeavenge.com/media/posts/3/responsive/2-xl.png 1360w ,https://codeavenge.com/media/posts/3/responsive/2-2xl.png 1600w"  alt="download-pycharm-2" width="1920" height="1080" /></figure>
 Now agree with JetBrains’ terms and conditions. After this, it will show Pycharm welcome page. Click on the setting and select “Create Desktop Entry” this will create a desktop shortcut.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1622282672357/YfkfIw3iG.png" data-is-external-image="true"  alt="Screenshot from 2021-05-29 15-32-48.png" /></figure></p>
-<p>![Screenshot from 2021-05-29 15-33-10.png](<a href="https://cdn.hash">https://cdn.hash</a>    node.com/res/hashnode/image/upload/v1622282676510/uSmjIXWNw.png)</p>
+<p><figure class="post__image"><img loading="lazy" src="https://codeavenge.com/media/posts/3/3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://codeavenge.com/media/posts/3/responsive/3-xs.png 300w ,https://codeavenge.com/media/posts/3/responsive/3-sm.png 480w ,https://codeavenge.com/media/posts/3/responsive/3-md.png 768w ,https://codeavenge.com/media/posts/3/responsive/3-lg.png 1024w ,https://codeavenge.com/media/posts/3/responsive/3-xl.png 1360w ,https://codeavenge.com/media/posts/3/responsive/3-2xl.png 1600w"  alt="download-pycharm-3" width="1920" height="1080" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://codeavenge.com/media/posts/3/4.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://codeavenge.com/media/posts/3/responsive/4-xs.png 300w ,https://codeavenge.com/media/posts/3/responsive/4-sm.png 480w ,https://codeavenge.com/media/posts/3/responsive/4-md.png 768w ,https://codeavenge.com/media/posts/3/responsive/4-lg.png 1024w ,https://codeavenge.com/media/posts/3/responsive/4-xl.png 1360w ,https://codeavenge.com/media/posts/3/responsive/4-2xl.png 1600w"  alt="download-pycharm-4" width="1920" height="1080" /></figure></p>
 <p><strong>3.Install Via JetBrains Toolbox App</strong>
 If you want to download not only Pycharm also other JetBrains apps like Android Studio, IntelliJ, etc this will help to download all of them. To download Toolbox go to Jetbrains product page <em><a href="https://www.jetbrains.com/products/">https://www.jetbrains.com/products/</a></em> download from there or click here to download <em><a href="https://www.jetbrains.com/toolbox-app/download/download-thanks.html">https://www.jetbrains.com/toolbox-app/download/download-thanks.html</a></em></p>
 <pre><code>$ cd Downloads
